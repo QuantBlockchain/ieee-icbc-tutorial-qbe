@@ -4,6 +4,15 @@
   <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/Roadmap/QBE.png" alt="QBE Framework Roadmap" width="100%">
 </p>
 
+<p align="center">
+  <a href="#tutorial-information" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Overview</a>
+  <a href="#speakers" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Speakers</a>
+  <a href="#agenda" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Agenda</a>
+  <a href="#m0-opening-demo" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M0</a>
+  <a href="#m1-embodied-ai--world-models" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M1</a>
+  <a href="#m2-quantum-hardware-threat" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M2</a>
+</p>
+
 > **QBE** = **Q**uantum security + **B**lockchain infrastructure + **E**mbodied AI  
 > A unified framework for architecting quantum-resistant, interoperable, and data-trustworthy Cyber-Physical-Social Systems (CPSS).
 
