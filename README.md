@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="#tutorial-information" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Overview</a>
-  <a href="#speakers" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Speakers</a>
-  <a href="#agenda" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">Agenda</a>
-  <a href="#m0-opening-demo" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M0</a>
-  <a href="#m1-embodied-ai--world-models" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M1</a>
-  <a href="#m2-quantum-hardware-threat" style="display:inline-block; margin:0 6px 8px 0; padding:8px 12px; background-color:#0366d6; color:#ffffff; text-decoration:none; border-radius:6px; font-weight:600;">M2</a>
+  <a href="#tutorial-information" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Overview</a>
+  <a href="#speakers" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Speakers</a>
+  <a href="#agenda" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Agenda</a>
+  <a href="#m0-opening-demo" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">M0</a>
+  <a href="#m1-embodied-ai--world-models" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">M1</a>
+  <a href="#m2-quantum-hardware-threat" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">M2</a>
 </p>
 
 > **QBE** = **Q**uantum security + **B**lockchain infrastructure + **E**mbodied AI  
