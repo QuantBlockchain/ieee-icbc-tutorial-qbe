@@ -108,8 +108,8 @@ The opening demonstration establishes the empirical QBE framework through two in
 
 | Application | Description | Links |
 |:---|:---|:---|
-| **QSignAI** | Post-quantum signature analysis and benchmarking for blockchain security | [GitHub](https://github.com/QuantBlockchain/QSignAI) / [arXiv](https://arxiv.org/abs/2605.27729) / [Overleaf](https://www.overleaf.com/2417477228mttvhqkfmndz) |
-| **Quantum Futures Interactive** | Interactive quantum computing exploration with cryptographic threat timelines | [GitHub](https://github.com/QuantBlockchain/qc-bc-interactive) / [arXiv](https://arxiv.org/abs/2605.15991) / [Overleaf](https://www.overleaf.com/8252413275kdhfzcfntmcx) |
+| **QSignAI** | Post-quantum signature analysis and benchmarking for blockchain security | [GitHub](https://github.com/QuantBlockchain/QSignAI) / [arXiv](https://arxiv.org/abs/2605.27729) |
+| **Quantum Futures Interactive** | Interactive quantum computing exploration with cryptographic threat timelines | [GitHub](https://github.com/QuantBlockchain/qc-bc-interactive) / [arXiv](https://arxiv.org/abs/2605.15991) |
 
 > **Folder:** `M0` -- Upload opening demo slides and videos here.
 
