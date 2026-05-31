@@ -1,10 +1,6 @@
 # QBE Tutorial -- IEEE ICBC 2026
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/Roadmap/QBE.png" alt="QBE Framework Roadmap" width="100%">
-</p>
-
-<p align="center">
   <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
   </a>
@@ -23,6 +19,10 @@
   <a href="./LICENSE" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="MIT License" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/Roadmap/QBE.png" alt="QBE Framework Roadmap" width="100%">
 </p>
 
 <p align="center">
