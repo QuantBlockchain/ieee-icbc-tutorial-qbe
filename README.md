@@ -142,7 +142,7 @@ Module: M5 – Industry Ecosystem Integration
 
 Aoyu Zhang, Ph.D.
 <p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/AoyuZhang.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
+<img src=“https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/blob/main/headshots/AoyuZhang.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
 </p>
 
 Aoyu Zhang is Senior Applied Scientist at AWS China Solution Development Center, where he advances the design and implementation of AI and quantum cloud solutions. He used to develop open-source quantum computing solutions for drug discovery under Amazon Braket. His research also includes hybrid quantum-classical algorithms, quantum benchmarking, and cross-domain applications in blockchain security and Web-scale cryptography. He delivered the keynote at the 2025 forum on Cloud Computing Services for Blockchain Security and contributes to this tutorial by leading the quantum core and live Amazon Braket demonstrations. He holds a Ph.D. in Biomedical Engineering from Peking University.
