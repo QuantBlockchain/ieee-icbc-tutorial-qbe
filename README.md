@@ -278,6 +278,16 @@ ieee-icbc-tutorial-qbe/
 |-- Roadmap/           # QBE framework roadmap illustration
 |   |-- QBE.png
 |
+|-- blockchain-journal-calls/  # Journal call collateral and booklet assets
+|   |-- MDPI- Blockchains.pdf
+|   |-- MDPI- Blockchains_Page_1.png
+|   |-- MDPI- Blockchains_Page_2.png
+|   |-- SI-List-Flyer-A5-Blockchains.pdf
+|   |-- SI-List-Flyer-A5-Blockchains.png
+|   |-- blockchainsJournalBookletPrint.pdf
+|   |-- blockchainsJournalBookletPrint_Page_1.png
+|   |-- blockchainsJournalBookletPrint_Page_2.png
+|
 |-- M0                 # Opening Demo: Quantum-Web3-AI Convergence
 |   |-- (slides, videos)
 |
