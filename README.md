@@ -105,58 +105,115 @@
 
 ## 👥 Speakers
 
-<div style="display:grid; grid-template-columns:1fr; gap:40px; margin:40px 0;">
+---
 
-Prof. Song Guo
+<!-- Speaker 1: Prof. Song Guo -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/raw/main/headshots/SongGuo.JPEG" width="140" height="140" style="border-radius: 50%; border: 3px solid #2D1B69;" alt="Prof. Song Guo">
+<br><br>
+<span style="display: inline-block; background: #2D1B69; color: #fff; padding: 3px 12px; border-radius: 12px; font-size: 11px;">🤖 M1</span>
+</td>
+<td valign="top">
 
-<p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/SongGuo.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
+**Prof. Song Guo**
+
 Song Guo is a Chair Professor at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST). He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. His research focuses on Large Language Models, Edge AI, and Machine Learning Systems. A Highly Cited Researcher, he has received over a dozen Best Paper Awards and the Edward J. McCluskey Technical Achievement Award (2024), First Prize in Natural Science (China Electronics Society, 2023), and Gold Medals at Geneva Inventions Expo (2023, 2024). He is a Fellow of the Canadian Academy of Engineering, Member of Academia Europaea, Fellow of the IEEE, Distinguished Member of the ACM, and Fellow of the Asia-Pacific Artificial Intelligence Association. He served as IEEE Communications Society Distinguished Lecturer and Board of Governors member. He is Editor-in-Chief of IEEE Transactions on Cloud Computing and founding Editor-in-Chief of IEEE Open Journal of the Computer Society. He has chaired numerous IEEE/ACM conference committees, delivered 100+ keynotes, and serves as Secretary General of CCF Hong Kong.
 
-Module: M1 – Embodied AI & World Models
+*Module: M1 – Embodied AI & World Models*
 
-<br clear=“left”/>
+</td>
+</tr>
+</table>
 
-Prof. Huawei Huang
+---
 
-<p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/HuaweiHuang.JPG” align=“left” width=“140” hspace=“15” vspace=“5”>
-Huawei Huang received the Ph.D. degree from the University of Aizu, Japan, in 2016. He is a Future Professor at Sun Yat-sen University, with dual appointments at Lingnan College and the Hong Kong Institute of Advanced Studies. He previously served as a JSPS Research Fellow and Assistant Professor at Kyoto University. He is a recipient of the Guangdong Outstanding Young Scholar Fund, an IEEE Senior Member, and a CCF Senior Member. Since 2021, he has been listed in the Stanford University World’s Top 2% Scientists ranking. His research interests include high-performance blockchain systems, DeFi protocols, and Web3 infrastructures. He has published in top-tier venues such as IEEE ToN, JSAC, TPDS, INFOCOM, and WWW, with over 9,000 citations. He has served as chair for more than ten international conferences and led over ten national research projects, including the National Key R&D Program of China and NSFC programs. He has authored three academic books on blockchain, one textbook, and one popular science book. He leads the development of BlockEmulator, an open-source blockchain experimental platform supporting researchers in over 90 countries, and the BrokerChain project, which launched its Academic Testnet in June 2025.
+<!-- Speaker 2: Prof. Huawei Huang -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/raw/main/headshots/HuaweiHuang.JPG" width="140" height="140" style="border-radius: 50%; border: 3px solid #0D5C5E;" alt="Prof. Huawei Huang">
+<br><br>
+<span style="display: inline-block; background: #0D5C5E; color: #fff; padding: 3px 12px; border-radius: 12px; font-size: 11px;">🔗 M3</span>
+</td>
+<td valign="top">
 
-Module: M3 – Scalable Architecture & Interoperability
+**Prof. Huawei Huang**
 
-<br clear=“left”/>
+Huawei Huang received the Ph.D. degree from the University of Aizu, Japan, in 2016. He is a Future Professor at Sun Yat-sen University, with dual appointments at Lingnan College and the Hong Kong Institute of Advanced Studies. He previously served as a JSPS Research Fellow and Assistant Professor at Kyoto University. He is a recipient of the Guangdong Outstanding Young Scholar Fund, an IEEE Senior Member, and a CCF Senior Member. Since 2021, he has been listed in the Stanford University World's Top 2% Scientists ranking. His research interests include high-performance blockchain systems, DeFi protocols, and Web3 infrastructures. He has published in top-tier venues such as IEEE ToN, JSAC, TPDS, INFOCOM, and WWW, with over 9,000 citations. He has served as chair for more than ten international conferences and led over ten national research projects, including the National Key R&D Program of China and NSFC programs. He has authored three academic books on blockchain, one textbook, and one popular science book. He leads the development of BlockEmulator, an open-source blockchain experimental platform supporting researchers in over 90 countries, and the BrokerChain project, which launched its Academic Testnet in June 2025.
 
-Dongping Liu, Ph.D.
+*Module: M3 – Scalable Architecture & Interoperability*
 
-<p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/DongpingLiu.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Speaker 3: Dongping Liu, Ph.D. -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/raw/main/headshots/DongpingLiu.JPEG" width="140" height="140" style="border-radius: 50%; border: 3px solid #C8963E;" alt="Dongping Liu">
+<br><br>
+<span style="display: inline-block; background: #C8963E; color: #0F0E1A; padding: 3px 12px; border-radius: 12px; font-size: 11px;">🏭 M5</span>
+</td>
+<td valign="top">
+
+**Dongping Liu, Ph.D.**
+
 Dongping Liu is the CEO of Tenorshare and a former Senior Industry Business Development Manager for Higher Education and Research at Amazon Web Services, where he specializes in driving digital transformation in academia through AI, deep learning, and high-performance computing solutions. With 15 years of experience in the higher education and research sector, he has successfully led the implementation of cutting-edge cloud technologies for educational institutions and research organizations. His expertise spans educational technology innovation, business development strategy, and large-scale research computing deployments. He has been awarded the First Prize of Beijing Science and Technology Award, published 30+ research papers, and obtained 10+ authorized patents along with multiple software copyrights. He contributes to this tutorial by bridging academic research needs with practical AWS cloud solutions and sharing insights on AI/HPC applications in higher education. He holds a Ph.D. in Physics from the Institute of Physics, Chinese Academy of Sciences, and completed postdoctoral research at McGill University, Canada.
 
-Module: M5 – Industry Ecosystem Integration
+*Module: M5 – Industry Ecosystem Integration*
 
-<br clear=“left”/>
+</td>
+</tr>
+</table>
 
-Aoyu Zhang, Ph.D.
+---
 
-<p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/AoyuZhang.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
+<!-- Speaker 4: Aoyu Zhang, Ph.D. -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/raw/main/headshots/AoyuZhang.JPEG" width="140" height="140" style="border-radius: 50%; border: 3px solid #6B5B95;" alt="Aoyu Zhang">
+<br><br>
+<span style="display: inline-block; background: #6B5B95; color: #fff; padding: 3px 12px; border-radius: 12px; font-size: 11px;">⚛️ M2</span>
+</td>
+<td valign="top">
+
+**Aoyu Zhang, Ph.D.**
+
 Aoyu Zhang is Senior Applied Scientist at AWS China Solution Development Center, where he advances the design and implementation of AI and quantum cloud solutions. He used to develop open-source quantum computing solutions for drug discovery under Amazon Braket. His research also includes hybrid quantum-classical algorithms, quantum benchmarking, and cross-domain applications in blockchain security and Web-scale cryptography. He delivered the keynote at the 2025 forum on Cloud Computing Services for Blockchain Security and contributes to this tutorial by leading the quantum core and live Amazon Braket demonstrations. He holds a Ph.D. in Biomedical Engineering from Peking University.
 
-Module: M2 – Quantum Hardware Threat Assessment
+*Module: M2 – Quantum Hardware Threat Assessment*
 
-<br clear=“left”/>
+</td>
+</tr>
+</table>
 
-Prof. Luyao Zhang
+---
 
-<p>
-<img src=“https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/LuyaoZhang.JPEG” align=“left” width=“140” hspace=“15” vspace=“5”>
-Luyao Zhang is a tenure-track Assistant Professor of Economics and Senior Research Scientist at Duke Kunshan University. Her research bridges computational and economic sciences through groundbreaking technologies for intelligent economics, encompassing big data, blockchain, generative AI, and geospatial analysis, with publications in Review of Economics and Statistics, Scientific Data, ACM CCS, IEEE S&P, ACM CSCW, and NeurIPS Datasets and Benchmarks. She holds a Ph.D. from The Ohio State University (Presidential Fellowship, NSF support) and a B.A./B.S. dual degree from Peking University, with professional certificates from Oxford and MIT in blockchain, reinforcement learning, and quantum computing. Her NSFC-funded project “Trust Mechanism Design on Blockchain” integrates game theory, reinforcement learning, and human-AI interaction. She serves as Guest Editor for Electronic Markets, Editorial Board Member of Scientific Data and Blockchain: Research and Applications, Working Group Secretary for IEEE P3469, and Academic Editor of Blockchain – Pioneering the Web3 Infrastructure for an Intelligent Future (2025).
+<!-- Speaker 5: Prof. Luyao Zhang -->
+<table width="100%">
+<tr>
+<td width="160" align="center" valign="top">
+<img src="https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe/raw/main/headshots/LuyaoZhang.JPEG" width="140" height="140" style="border-radius: 50%; border: 3px solid #4A9088;" alt="Luyao Zhang">
+<br><br>
+<span style="display: inline-block; background: #4A9088; color: #fff; padding: 3px 12px; border-radius: 12px; font-size: 11px;">📊 M4</span>
+</td>
+<td valign="top">
 
-Module: M4 – Trustworthy Data Economies
+**Prof. Luyao Zhang**
 
-<br clear=“left”/>
+Luyao Zhang is a tenure-track Assistant Professor of Economics and Senior Research Scientist at Duke Kunshan University. Her research bridges computational and economic sciences through groundbreaking technologies for intelligent economics, encompassing big data, blockchain, generative AI, and geospatial analysis, with publications in Review of Economics and Statistics, Scientific Data, ACM CCS, IEEE S&P, ACM CSCW, and NeurIPS Datasets and Benchmarks. She holds a Ph.D. from The Ohio State University (Presidential Fellowship, NSF support) and a B.A./B.S. dual degree from Peking University, with professional certificates from Oxford and MIT in blockchain, reinforcement learning, and quantum computing. Her NSFC-funded project "Trust Mechanism Design on Blockchain" integrates game theory, reinforcement learning, and human-AI interaction. She serves as Guest Editor for Electronic Markets, Editorial Board Member of Scientific Data and Blockchain: Research and Applications, Working Group Secretary for IEEE P3469, and Academic Editor of Blockchain – Pioneering the Web3 Infrastructure for an Intelligent Future (2025).
 
+*Module: M4 – Trustworthy Data Economies*
+
+</td>
+</tr>
+</table>
 
 
 ---
