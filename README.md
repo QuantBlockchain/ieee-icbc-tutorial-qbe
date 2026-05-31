@@ -37,8 +37,6 @@
   <a href="#-additional-materials" style="display:inline-flex; align-items:center; gap:8px; padding:12px 18px; background:linear-gradient(135deg,#10b981,#059669); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; font-size:0.95rem; box-shadow:0 4px 15px rgba(16,185,129,0.35); border:1px solid rgba(255,255,255,0.2); transition:all 0.3s ease;">📚 Materials</a>
   <a href="#-repository-structure" style="display:inline-flex; align-items:center; gap:8px; padding:12px 18px; background:linear-gradient(135deg,#f59e0b,#d97706); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; font-size:0.95rem; box-shadow:0 4px 15px rgba(245,158,11,0.35); border:1px solid rgba(255,255,255,0.2); transition:all 0.3s ease;">🗂️ Repo</a>
 </div>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px; margin:30px 0; padding:25px 20px; background:rgba(16,185,129,0.05); border-radius:12px; border-left:4px solid #10b981;">
   <a href="#-m0-opening-demo" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#fff; text-decoration:none; border-radius:999px; font-weight:600; font-size:0.85rem; box-shadow:0 2px 8px rgba(31,111,235,0.3);">🎬 M0</a>
   <a href="#-m1-embodied-ai--world-models" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; background:linear-gradient(135deg,#ec4899,#db2777); color:#fff; text-decoration:none; border-radius:999px; font-weight:600; font-size:0.85rem; box-shadow:0 2px 8px rgba(236,72,153,0.3);">🤖 M1</a>
   <a href="#-m2-quantum-hardware-threat" style="display:inline-flex; align-items:center; gap:6px; padding:8px 14px; background:linear-gradient(135deg,#8b5cf6,#7c3aed); color:#fff; text-decoration:none; border-radius:999px; font-weight:600; font-size:0.85rem; box-shadow:0 2px 8px rgba(139,92,246,0.3);">⚛️ M2</a>
@@ -62,23 +60,27 @@
 
 ## 📋 Tutorial Information
 
-<div style="display:grid; grid-template-columns:repeat(auto-fit, minmax(250px, 1fr)); gap:16px; margin:30px 0;">
-  <div style="padding:20px; background:linear-gradient(135deg, rgba(31,111,235,0.08), rgba(31,111,235,0.02)); border:1px solid rgba(31,111,235,0.3); border-radius:12px; border-left:4px solid #1f6feb;">
-    <div style="font-weight:700; color:#1f6feb; font-size:0.9rem; text-transform:uppercase; letter-spacing:0.5px;">📍 Conference</div>
-    <div style="color:#333; font-size:1rem; margin-top:8px;">IEEE ICBC 2026</div>
-  </div>
-  <div style="padding:20px; background:linear-gradient(135deg, rgba(16,185,129,0.08), rgba(16,185,129,0.02)); border:1px solid rgba(16,185,129,0.3); border-radius:12px; border-left:4px solid #10b981;">
-    <div style="font-weight:700; color:#10b981; font-size:0.9rem; text-transform:uppercase; letter-spacing:0.5px;">📅 Dates</div>
-    <div style="color:#333; font-size:1rem; margin-top:8px;">June 1–5, 2026</div>
-  </div>
-  <div style="padding:20px; background:linear-gradient(135deg, rgba(245,158,11,0.08), rgba(245,158,11,0.02)); border:1px solid rgba(245,158,11,0.3); border-radius:12px; border-left:4px solid #f59e0b;">
-    <div style="font-weight:700; color:#f59e0b; font-size:0.9rem; text-transform:uppercase; letter-spacing:0.5px;">🌏 Location</div>
-    <div style="color:#333; font-size:1rem; margin-top:8px;">Brisbane, Australia</div>
-  </div>
-  <div style="padding:20px; background:linear-gradient(135deg, rgba(139,92,246,0.08), rgba(139,92,246,0.02)); border:1px solid rgba(139,92,246,0.3); border-radius:12px; border-left:4px solid #8b5cf6;">
-    <div style="font-weight:700; color:#8b5cf6; font-size:0.9rem; text-transform:uppercase; letter-spacing:0.5px;">⏱️ Duration</div>
-    <div style="color:#333; font-size:1rem; margin-top:8px;">2 hours</div>
-  </div>
+<div style="overflow-x:auto; margin:30px 0;">
+<table style="width:100%; border-collapse:collapse; background:linear-gradient(180deg, #f9fafb, #ffffff);">
+<thead>
+<tr style="background:linear-gradient(135deg, #1f6feb, #0a58ca); color:white;">
+<th style="padding:14px; text-align:left; font-weight:700; border:1px solid #ddd;">📍 Conference</th>
+<th style="padding:14px; text-align:left; font-weight:700; border:1px solid #ddd;">📅 Dates</th>
+<th style="padding:14px; text-align:left; font-weight:700; border:1px solid #ddd;">🌏 Location</th>
+<th style="padding:14px; text-align:left; font-weight:700; border:1px solid #ddd;">⏱️ Duration</th>
+<th style="padding:14px; text-align:left; font-weight:700; border:1px solid #ddd;">🔗 Website</th>
+</tr>
+</thead>
+<tbody>
+<tr style="background:#ffffff; border-bottom:1px solid #e5e7eb;">
+<td style="padding:14px; border:1px solid #ddd; color:#1f6feb; font-weight:600;">IEEE ICBC 2026</td>
+<td style="padding:14px; border:1px solid #ddd; color:#10b981; font-weight:600;">June 1–5, 2026</td>
+<td style="padding:14px; border:1px solid #ddd; color:#f59e0b; font-weight:600;">Brisbane, Australia</td>
+<td style="padding:14px; border:1px solid #ddd; color:#8b5cf6; font-weight:600;">2 hours</td>
+<td style="padding:14px; border:1px solid #ddd;"><a href="https://icbc2026.ieee-icbc.org/program-schedule" target="_blank" rel="noopener noreferrer" style="color:#1f6feb; text-decoration:none; font-weight:600;">ICBC 2026 Schedule →</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ---
@@ -105,101 +107,129 @@
 
 ### 🤖 Prof. Song Guo — Embodied AI & World Models
 
-<figure style="float:left; width:180px; margin:0 25px 20px 0; text-align:center;">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/SongGuo.JPEG" alt="Prof. Song Guo headshot" style="width:150px; height:150px; object-fit:cover; border-radius:16px; box-shadow:0 12px 28px rgba(236,72,153,0.25); border:3px solid #ec4899;">
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:12px; font-weight:600;"><strong style="color:#ec4899;">HKUST</strong></figcaption>
-  <figcaption style="font-size:0.85rem; color:#999; margin-top:2px;">Module M1</figcaption>
-</figure>
-
-**Song Guo** is a Chair Professor at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST). He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. His research focuses on Large Language Models, Edge AI, and Machine Learning Systems. 
-
-✨ **Highlights:**
-- Highly Cited Researcher
-- 12+ Best Paper Awards
-- Edward J. McCluskey Technical Achievement Award (2024)
-- Fellow of IEEE, ACM, and multiple academic organizations
-
-<div style="clear:both;"></div>
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0; padding:20px; background:linear-gradient(135deg, rgba(236,72,153,0.05), rgba(236,72,153,0.02)); border:1px solid rgba(236,72,153,0.2); border-radius:12px;">
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/SongGuo.JPEG" alt="Prof. Song Guo headshot" style="width:140px; height:140px; object-fit:cover; border-radius:12px; box-shadow:0 8px 20px rgba(236,72,153,0.25); border:3px solid #ec4899;">
+    <div style="font-size:0.85rem; color:#666; margin-top:8px; font-weight:600;"><strong style="color:#ec4899;">HKUST</strong></div>
+    <div style="font-size:0.8rem; color:#999; margin-top:2px;">Module M1</div>
+  </div>
+  <div style="flex:1;">
+    <p style="margin:0 0 10px 0; font-size:1rem; line-height:1.6; color:#333;">
+      <strong>Song Guo</strong> is a Chair Professor at the Department of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST). He also holds a Changjiang Chair Professorship awarded by the Ministry of Education of China. His research focuses on Large Language Models, Edge AI, and Machine Learning Systems.
+    </p>
+    <div style="font-size:0.9rem; line-height:1.6; color:#555;">
+      <strong style="color:#ec4899;">✨ Highlights:</strong>
+      <ul style="margin:5px 0 0 0; padding-left:20px;">
+        <li>Highly Cited Researcher</li>
+        <li>12+ Best Paper Awards</li>
+        <li>Edward J. McCluskey Technical Achievement Award (2024)</li>
+        <li>Fellow of IEEE, ACM, and multiple academic organizations</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 ### ⛓️ Prof. Huawei Huang — Scalable Architecture
 
-<figure style="float:left; width:180px; margin:0 25px 20px 0; text-align:center;">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/HuaweiHuang.JPG" alt="Prof. Huawei Huang headshot" style="width:150px; height:150px; object-fit:cover; border-radius:16px; box-shadow:0 12px 28px rgba(16,185,129,0.25); border:3px solid #10b981;">
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:12px; font-weight:600;"><strong style="color:#10b981;">SYSU</strong></figcaption>
-  <figcaption style="font-size:0.85rem; color:#999; margin-top:2px;">Module M3</figcaption>
-</figure>
-
-**Huawei Huang** is a Future Professor at Sun Yat-sen University with dual appointments at Lingnan College and the Hong Kong Institute of Advanced Studies. His research focuses on high-performance blockchain systems, DeFi protocols, and Web3 infrastructures.
-
-✨ **Highlights:**
-- Top 2% Scientists (Stanford, 2021–present)
-- 9,000+ citations
-- Chair of 10+ international conferences
-- Developer of BlockEmulator & BrokerChain
-
-<div style="clear:both;"></div>
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0; padding:20px; background:linear-gradient(135deg, rgba(16,185,129,0.05), rgba(16,185,129,0.02)); border:1px solid rgba(16,185,129,0.2); border-radius:12px;">
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/HuaweiHuang.JPG" alt="Prof. Huawei Huang headshot" style="width:140px; height:140px; object-fit:cover; border-radius:12px; box-shadow:0 8px 20px rgba(16,185,129,0.25); border:3px solid #10b981;">
+    <div style="font-size:0.85rem; color:#666; margin-top:8px; font-weight:600;"><strong style="color:#10b981;">SYSU</strong></div>
+    <div style="font-size:0.8rem; color:#999; margin-top:2px;">Module M3</div>
+  </div>
+  <div style="flex:1;">
+    <p style="margin:0 0 10px 0; font-size:1rem; line-height:1.6; color:#333;">
+      <strong>Huawei Huang</strong> is a Future Professor at Sun Yat-sen University with dual appointments at Lingnan College and the Hong Kong Institute of Advanced Studies. His research focuses on high-performance blockchain systems, DeFi protocols, and Web3 infrastructures.
+    </p>
+    <div style="font-size:0.9rem; line-height:1.6; color:#555;">
+      <strong style="color:#10b981;">✨ Highlights:</strong>
+      <ul style="margin:5px 0 0 0; padding-left:20px;">
+        <li>Top 2% Scientists (Stanford, 2021–present)</li>
+        <li>9,000+ citations</li>
+        <li>Chair of 10+ international conferences</li>
+        <li>Developer of BlockEmulator & BrokerChain</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 ### 🏢 Dongping Liu, Ph.D. — Industry Ecosystem
 
-<figure style="float:left; width:180px; margin:0 25px 20px 0; text-align:center;">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/DongpingLiu.JPEG" alt="Dongping Liu headshot" style="width:150px; height:150px; object-fit:cover; border-radius:16px; box-shadow:0 12px 28px rgba(6,182,212,0.25); border:3px solid #06b6d4;">
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:12px; font-weight:600;"><strong style="color:#06b6d4;">Tenorshare</strong></figcaption>
-  <figcaption style="font-size:0.85rem; color:#999; margin-top:2px;">Module M5</figcaption>
-</figure>
-
-**Dongping Liu** is CEO of Tenorshare and former Senior Industry Business Development Manager at Amazon Web Services. With 15 years in higher education and research, he specializes in driving digital transformation through AI and high-performance computing.
-
-✨ **Highlights:**
-- First Prize Beijing Science and Technology Award
-- 30+ research publications
-- 10+ authorized patents
-- Ph.D. Physics, Chinese Academy of Sciences
-
-<div style="clear:both;"></div>
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0; padding:20px; background:linear-gradient(135deg, rgba(6,182,212,0.05), rgba(6,182,212,0.02)); border:1px solid rgba(6,182,212,0.2); border-radius:12px;">
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/DongpingLiu.JPEG" alt="Dongping Liu headshot" style="width:140px; height:140px; object-fit:cover; border-radius:12px; box-shadow:0 8px 20px rgba(6,182,212,0.25); border:3px solid #06b6d4;">
+    <div style="font-size:0.85rem; color:#666; margin-top:8px; font-weight:600;"><strong style="color:#06b6d4;">Tenorshare</strong></div>
+    <div style="font-size:0.8rem; color:#999; margin-top:2px;">Module M5</div>
+  </div>
+  <div style="flex:1;">
+    <p style="margin:0 0 10px 0; font-size:1rem; line-height:1.6; color:#333;">
+      <strong>Dongping Liu</strong> is CEO of Tenorshare and former Senior Industry Business Development Manager at Amazon Web Services. With 15 years in higher education and research, he specializes in driving digital transformation through AI and high-performance computing.
+    </p>
+    <div style="font-size:0.9rem; line-height:1.6; color:#555;">
+      <strong style="color:#06b6d4;">✨ Highlights:</strong>
+      <ul style="margin:5px 0 0 0; padding-left:20px;">
+        <li>First Prize Beijing Science and Technology Award</li>
+        <li>30+ research publications</li>
+        <li>10+ authorized patents</li>
+        <li>Ph.D. Physics, Chinese Academy of Sciences</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 ### ⚛️ Aoyu Zhang, Ph.D. — Quantum Hardware
 
-<figure style="float:left; width:180px; margin:0 25px 20px 0; text-align:center;">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/AoyuZhang.JPEG" alt="Aoyu Zhang headshot" style="width:150px; height:150px; object-fit:cover; border-radius:16px; box-shadow:0 12px 28px rgba(139,92,246,0.25); border:3px solid #8b5cf6;">
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:12px; font-weight:600;"><strong style="color:#8b5cf6;">AWS</strong></figcaption>
-  <figcaption style="font-size:0.85rem; color:#999; margin-top:2px;">Module M2</figcaption>
-</figure>
-
-**Aoyu Zhang** is Senior Applied Scientist at AWS China Solution Development Center. He advances the design and implementation of AI and quantum cloud solutions, with expertise in hybrid quantum-classical algorithms and cross-domain applications.
-
-✨ **Highlights:**
-- Amazon Braket quantum computing expertise
-- 2025 Blockchain Security Forum keynote speaker
-- Ph.D. Biomedical Engineering, Peking University
-
-<div style="clear:both;"></div>
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0; padding:20px; background:linear-gradient(135deg, rgba(139,92,246,0.05), rgba(139,92,246,0.02)); border:1px solid rgba(139,92,246,0.2); border-radius:12px;">
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/AoyuZhang.JPEG" alt="Aoyu Zhang headshot" style="width:140px; height:140px; object-fit:cover; border-radius:12px; box-shadow:0 8px 20px rgba(139,92,246,0.25); border:3px solid #8b5cf6;">
+    <div style="font-size:0.85rem; color:#666; margin-top:8px; font-weight:600;"><strong style="color:#8b5cf6;">AWS</strong></div>
+    <div style="font-size:0.8rem; color:#999; margin-top:2px;">Module M2</div>
+  </div>
+  <div style="flex:1;">
+    <p style="margin:0 0 10px 0; font-size:1rem; line-height:1.6; color:#333;">
+      <strong>Aoyu Zhang</strong> is Senior Applied Scientist at AWS China Solution Development Center. He advances the design and implementation of AI and quantum cloud solutions, with expertise in hybrid quantum-classical algorithms and cross-domain applications.
+    </p>
+    <div style="font-size:0.9rem; line-height:1.6; color:#555;">
+      <strong style="color:#8b5cf6;">✨ Highlights:</strong>
+      <ul style="margin:5px 0 0 0; padding-left:20px;">
+        <li>Amazon Braket quantum computing expertise</li>
+        <li>2025 Blockchain Security Forum keynote speaker</li>
+        <li>Ph.D. Biomedical Engineering, Peking University</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ---
 
 ### 💎 Prof. Luyao Zhang — Trustworthy Data Economies
 
-<figure style="float:left; width:180px; margin:0 25px 20px 0; text-align:center;">
-  <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/LuyaoZhang.JPEG" alt="Prof. Luyao Zhang headshot" style="width:150px; height:150px; object-fit:cover; border-radius:16px; box-shadow:0 12px 28px rgba(245,158,11,0.25); border:3px solid #f59e0b;">
-  <figcaption style="font-size:0.9rem; color:#666; margin-top:12px; font-weight:600;"><strong style="color:#f59e0b;">DKU</strong></figcaption>
-  <figcaption style="font-size:0.85rem; color:#999; margin-top:2px;">Module M4</figcaption>
-</figure>
-
-**Luyao Zhang** is a tenure-track Assistant Professor of Economics and Senior Research Scientist at Duke Kunshan University. Her research bridges computational and economic sciences through AI, blockchain, and geospatial analysis.
-
-✨ **Highlights:**
-- Publications in Review of Economics and Statistics, ACM CCS, IEEE S&P
-- Presidential Fellowship, NSF support
-- Certificates from Oxford and MIT
-- Guest Editor & Board Member at top journals
-
-<div style="clear:both;"></div>
-
+<div style="display:flex; gap:25px; align-items:flex-start; margin:25px 0; padding:20px; background:linear-gradient(135deg, rgba(245,158,11,0.05), rgba(245,158,11,0.02)); border:1px solid rgba(245,158,11,0.2); border-radius:12px;">
+  <div style="flex-shrink:0; text-align:center;">
+    <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/headshots/LuyaoZhang.JPEG" alt="Prof. Luyao Zhang headshot" style="width:140px; height:140px; object-fit:cover; border-radius:12px; box-shadow:0 8px 20px rgba(245,158,11,0.25); border:3px solid #f59e0b;">
+    <div style="font-size:0.85rem; color:#666; margin-top:8px; font-weight:600;"><strong style="color:#f59e0b;">DKU</strong></div>
+    <div style="font-size:0.8rem; color:#999; margin-top:2px;">Module M4</div>
+  </div>
+  <div style="flex:1;">
+    <p style="margin:0 0 10px 0; font-size:1rem; line-height:1.6; color:#333;">
+      <strong>Luyao Zhang</strong> is a tenure-track Assistant Professor of Economics and Senior Research Scientist at Duke Kunshan University. Her research bridges computational and economic sciences through AI, blockchain, and geospatial analysis.
+    </p>
+    <div style="font-size:0.9rem; line-height:1.6; color:#555;">
+      <strong style="color:#f59e0b;">✨ Highlights:</strong>
+      <ul style="margin:5px 0 0 0; padding-left:20px;">
+        <li>Publications in Review of Economics and Statistics, ACM CCS, IEEE S&P</li>
+        <li>Presidential Fellowship, NSF support</li>
+        <li>Certificates from Oxford and MIT</li>
+        <li>Guest Editor & Board Member at top journals</li>
+      </ul>
+    </div>
+  </div>
 </div>
 
 ---
