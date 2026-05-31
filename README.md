@@ -295,11 +295,24 @@ The opening demonstration establishes the empirical QBE framework through two in
 
 > **📁 Folder:** `M0` — Upload opening demo slides and videos here.
 
-<div style="text-align:center; margin:24px 0;">
-  <img src="./M0/QSignAI@IEEE-ICBC-2026-Tutorial-Telegram.png" alt="Scan to join the QBE Telegram group" style="max-width:280px; border:2px solid #1f6feb; border-radius:16px; box-shadow:0 12px 35px rgba(31,111,235,0.18);" />
-  <p style="margin:16px 0 0; font-size:0.98rem; color:#1f2937;">
-    Scan this QR code to join the Telegram group for an immersive interactive experience during the M0 Opening Demo.
-  </p>
+<div style="display:flex; justify-content:center; margin:24px 0;">
+  <table style="border-collapse:collapse; background:#ffffff; border:1px solid rgba(31,111,235,0.18); border-radius:18px; box-shadow:0 18px 40px rgba(15,23,42,0.08); max-width:760px; width:100%;">
+    <tr>
+      <td style="padding:18px; vertical-align:middle; width:320px; text-align:center;">
+        <img src="./M0/QSignAI@IEEE-ICBC-2026-Tutorial-Telegram.png" alt="Scan to join the QBE Telegram group" style="width:220px; max-width:100%; border:2px solid #1f6feb; border-radius:18px;" />
+      </td>
+      <td style="padding:18px 24px; vertical-align:middle; color:#111827; font-size:1rem; line-height:1.7;">
+        <p style="margin:0 0 12px; font-size:1.04rem; font-weight:700; color:#1f2937;">
+          📱 Scan to join the Telegram group for an immersive interactive experience during the M0 Opening Demo.
+        </p>
+        <ul style="margin:0; padding-left:22px; list-style:none; color:#374151; font-size:0.98rem;">
+          <li style="margin-bottom:10px;"><strong>💬 Live discussion:</strong> Ask questions and share feedback in real time.</li>
+          <li style="margin-bottom:10px;"><strong>🧭 Interactive journey:</strong> Access demo resources, updates, and guided engagement.</li>
+          <li><strong>🔗 Seamless connection:</strong> Stay connected with the QBE community throughout the session.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 </div>
