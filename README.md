@@ -5,6 +5,27 @@
 </p>
 
 <p align="center">
+  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://aws.amazon.com/braket/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS%20Braket-232F3E?logo=amazon-aws&logoColor=white" alt="AWS Braket" />
+  </a>
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SV1-orange?logo=data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3C/svg%3E&logoColor=white" alt="SV1" />
+  </a>
+  <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AWS%20CDK-2B6CB0?logo=aws&logoColor=white" alt="AWS CDK" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="./LICENSE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="MIT License" />
+  </a>
+</p>
+
+<p align="center">
   <a href="#tutorial-information" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Overview</a>
   <a href="#speakers" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Speakers</a>
   <a href="#agenda" style="display:inline-block; margin:0 6px 8px 0; padding:10px 14px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; box-shadow:0 4px 10px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.15);">Agenda</a>
