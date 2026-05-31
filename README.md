@@ -30,6 +30,15 @@
 
 ---
 
+## Additional Materials
+
+- `blockchain-journal-calls/` — conference journal call collateral and booklet assets.
+  - `MDPI- Blockchains.pdf`
+  - `SI-List-Flyer-A5-Blockchains.pdf`
+  - `blockchainsJournalBookletPrint.pdf`
+
+---
+
 ## Speakers
 
 ### Prof. Song Guo
