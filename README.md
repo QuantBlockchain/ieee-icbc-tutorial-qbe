@@ -7,9 +7,6 @@
   <a href="https://aws.amazon.com/braket/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS%20Braket-232F3E?logo=amazon-aws&logoColor=white" alt="AWS Braket" />
   </a>
-  <a href="#" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/SV1-orange?logo=data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3C/svg%3E&logoColor=white" alt="SV1" />
-  </a>
   <a href="https://aws.amazon.com/cdk/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/AWS%20CDK-2B6CB0?logo=aws&logoColor=white" alt="AWS CDK" />
   </a>
