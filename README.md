@@ -295,6 +295,13 @@ The opening demonstration establishes the empirical QBE framework through two in
 
 > **📁 Folder:** `M0` — Upload opening demo slides and videos here.
 
+<div style="text-align:center; margin:24px 0;">
+  <img src="./M0/QSignAI@IEEE-ICBC-2026-Tutorial-Telegram.png" alt="Scan to join the QBE Telegram group" style="max-width:280px; border:2px solid #1f6feb; border-radius:16px; box-shadow:0 12px 35px rgba(31,111,235,0.18);" />
+  <p style="margin:16px 0 0; font-size:0.98rem; color:#1f2937;">
+    Scan this QR code to join the Telegram group for an immersive interactive experience during the M0 Opening Demo.
+  </p>
+</div>
+
 </div>
 
 ---
