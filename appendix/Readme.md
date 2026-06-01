@@ -355,7 +355,7 @@
 <td>哈希锚定在时间戳为 t 的区块链上——不可篡改且公开可验证</td>
 </tr>
 <tr>
-<td><code>U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i</code></td>
+<td><code>$$ U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i $$</code></td>
 <td>Incentive utility function — reward for quality minus cost plus network effect</td>
 <td>激励效用函数——质量奖励减去成本加上网络效应</td>
 </tr>
