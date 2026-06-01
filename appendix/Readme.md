@@ -33,7 +33,7 @@
 <td>⚛️</td>
 <td>Quantum Hardware Threat Assessment</td>
 <td>量子硬件威胁评估</td>
-<td>Aoyu Zhang (AWS)</td>
+<td>Dr. Aoyu Zhang (AWS)</td>
 <td><code>M2/</code></td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@
 <td>🏢</td>
 <td>Industry Ecosystem Integration</td>
 <td>产业生态系统集成</td>
-<td>Dongping Liu (Tenorshare)</td>
+<td>Dr. Dongping Liu (Tenorshare)</td>
 <td><code>M5/</code></td>
 </tr>
 </tbody>
