@@ -345,17 +345,17 @@
 </thead>
 <tbody>
 <tr>
-<td><code>H(d) = SHA-256(Croissant(d) ⊕ data)</code></td>
+<td>$H(d) = SHA-256(Croissant(d) ⊕ data)$</td>
 <td>Provenance hash — unique fingerprint of a dataset combined with its metadata</td>
 <td>溯源哈希——数据集与其元数据结合后的唯一指纹</td>
 </tr>
 <tr>
-<td><code>Anchor(H(d)) → Blockchain_t</code></td>
+<td>$Anchor(H(d)) → Blockchain_t$</td>
 <td>Hash anchored on blockchain at timestamp t — immutable and publicly verifiable</td>
 <td>哈希锚定在时间戳为 t 的区块链上——不可篡改且公开可验证</td>
 </tr>
 <tr>
-<td><code> U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i </code></td>
+<td> $U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i$ </td>
 <td>Incentive utility function — reward for quality minus cost plus network effect</td>
 <td>激励效用函数——质量奖励减去成本加上网络效应</td>
 </tr>
