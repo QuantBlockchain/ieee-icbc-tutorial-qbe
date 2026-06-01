@@ -1,5 +1,5 @@
-📎 # Appendix
-🗂️ Tutorial Modules at a Glance
+# 📎  Appendix
+## 🗂️ Tutorial Modules at a Glance
 <table>
 <thead>
 <tr>
@@ -63,7 +63,7 @@
 </tbody>
 </table>
 
-📖 Bilingual Glossary / 中英双语术语表
+## 📖 Bilingual Glossary / 中英双语术语表
 🔬 Core Concepts
 <table>
 <thead>
@@ -126,7 +126,7 @@
 </tbody>
 </table>
 
-⛓️ Blockchain & Consensus
+### ⛓️ Blockchain & Consensus
 <table>
 <thead>
 <tr>
@@ -176,7 +176,7 @@
 </tbody>
 </table>
 
-🤖 AI & Robotics
+### 🤖 AI & Robotics
 <table>
 <thead>
 <tr>
@@ -214,7 +214,7 @@
 </tbody>
 </table>
 
-📊 Data & Metadata
+### 📊 Data & Metadata
 <table>
 <thead>
 <tr>
@@ -258,7 +258,7 @@
 </tbody>
 </table>
 
-💰 Finance & Incentives
+### 💰 Finance & Incentives
 <table>
 <thead>
 <tr>
@@ -302,7 +302,7 @@
 </tbody>
 </table>
 
-⚛️ Quantum Computing
+### ⚛️ Quantum Computing
 <table>
 <thead>
 <tr>
@@ -334,7 +334,7 @@
 </tbody>
 </table>
 
-🔑 Key Formulas / 关键公式
+### 🔑 Key Formulas / 关键公式
 <table>
 <thead>
 <tr>
