@@ -355,12 +355,12 @@
 <td>哈希锚定在时间戳为 t 的区块链上——不可篡改且公开可验证</td>
 </tr>
 <tr>
-<td><code>$$ U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i $$</code></td>
+<td><code> U_i(a_i, a_{-i}) = R(q_i) − C(a_i) + β·B_i </code></td>
 <td>Incentive utility function — reward for quality minus cost plus network effect</td>
 <td>激励效用函数——质量奖励减去成本加上网络效应</td>
 </tr>
 <tr>
-<td><code>∀ O_i: (∀ succeed) ∨ (∀ fail)</code></td>
+<td>$U_i(a_i, a_{-i}) = R(q_i) - C(a_i) + \beta \cdot B_i$</td>
 <td>Atomicity condition — all operations succeed or all fail, no partial state</td>
 <td>原子性条件——所有操作都成功或都失败，不存在中间状态</td>
 </tr>
