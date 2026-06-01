@@ -1,4 +1,4 @@
-📎 Appendix
+📎 # Appendix
 🗂️ Tutorial Modules at a Glance
 <table>
 <thead>
