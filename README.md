@@ -342,6 +342,9 @@ The opening demonstration establishes the empirical QBE framework through two in
 - [3] Zhu et al., "IRASim: A Fine-Grained World Model for Robot Manipulation," ICCV 2025
 - [4] Mon-Williams et al., "Embodied large language models enable robots," Nature MI 2025
 
+- IRASim — "A Fine-Grained World Model for Robot Manipulation" (Zhu et al., ICCV 2025): https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_IRASim_A_Fine-Grained_World_Model_for_Robot_Manipulation_ICCV_2025_paper.pdf — GitHub: https://github.com/bytedance/IRASim — Project: https://gen-irasim.github.io/
+- WMPO — "World Model-based Policy Optimization" (ICLR 2026): https://openreview.net/forum?id=qE2FyvRvuF — Project / Website: https://wm-po.github.io/
+
 </div>
 
 ---
