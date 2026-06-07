@@ -105,6 +105,8 @@
 
 ## 👥 Speakers
 
+> Speakers are listed in alphabetical order by last name.
+
 ---
 
 <!-- Speaker 1: Prof. Song Guo -->
@@ -523,7 +525,7 @@ ieee-icbc-tutorial-qbe/
 <div style="background:#f5f5f5; border:1px solid #ddd; border-radius:8px; padding:20px; overflow-x:auto; font-family:'Courier New', monospace; font-size:0.85rem; line-height:1.6;">
 
 ```bibtex
-@inproceedings{guo2026qbe,
+@inproceedings{icbc2026qbe,
   title={Blockchain Infrastructure for Intelligent Cyber--Physical--Social 
          Systems: Post-Quantum Security, Interoperability, and Trustworthy 
          Data Economies in the Era of Embodied {AI}},
