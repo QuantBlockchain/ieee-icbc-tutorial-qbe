@@ -1,6 +1,6 @@
 <div style="text-align:center; padding:30px 20px; background:linear-gradient(135deg, rgba(31,111,235,0.08) 0%, rgba(16,185,129,0.08) 100%); border-radius:16px; margin-bottom:30px; border:1px solid rgba(31,111,235,0.2);">
 
-# ⚛️ QBE Tutorial — IEEE ICBC 2026
+# ⚛️ QBE Tutorial — IEEE ICBC 2026 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20577262-1abc9c)](https://doi.org/10.5281/zenodo.20577262)
 ##  Blockchain Infrastructure for Intelligent Cyber-Physical-Social Systems: Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI
 
 <p style="font-size:1.1rem; color:#1f6feb; font-weight:600; letter-spacing:0.5px;">
