@@ -32,6 +32,15 @@
   <img src="https://raw.githubusercontent.com/QuantBlockchain/ieee-icbc-tutorial-qbe/main/Roadmap/QBE.png" alt="QBE Framework Roadmap" style="width:100%; max-width:900px; border-radius:12px; box-shadow:0 20px 60px rgba(0,0,0,0.15); border:2px solid rgba(31,111,235,0.2);">
 </div>
 
+<div style="margin:40px 0;">
+  <h2 id="overview-slides" style="font-size:1.5rem; color:#1f6feb; margin-bottom:18px;">💡 Tutorial Overview Slides</h2>
+  <p style="font-size:1rem; color:#334155; margin-bottom:20px;">Embedded Gamma presentation for the tutorial overview. If the embed does not display in your renderer, open it directly in a new tab.</p>
+  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:16px; box-shadow:0 20px 60px rgba(0,0,0,0.08); border:1px solid rgba(148,163,184,0.2);">
+    <iframe src="https://blockchain-infrastructur-mzdp2pj.gamma.site/" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"></iframe>
+  </div>
+  <p style="font-size:0.9rem; color:#64748b; margin-top:14px;">View directly: <a href="https://blockchain-infrastructur-mzdp2pj.gamma.site/" target="_blank" rel="noopener noreferrer" style="color:#1f6feb; font-weight:600;">Gamma overview slides</a></p>
+</div>
+
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin:40px 0; padding:30px 20px; background:linear-gradient(180deg, rgba(255,255,255,0.5), rgba(31,111,235,0.03)); border-radius:16px;">
   <a href="#-tutorial-information" style="display:inline-flex; align-items:center; gap:8px; padding:12px 18px; background:linear-gradient(135deg,#1f6feb,#0a58ca); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; font-size:0.95rem; box-shadow:0 4px 15px rgba(31,111,235,0.35); border:1px solid rgba(255,255,255,0.2); transition:all 0.3s ease;">📋 Overview</a>
   <a href="#-speakers" style="display:inline-flex; align-items:center; gap:8px; padding:12px 18px; background:linear-gradient(135deg,#8b5cf6,#7c3aed); color:#ffffff; text-decoration:none; border-radius:999px; font-weight:700; font-size:0.95rem; box-shadow:0 4px 15px rgba(139,92,246,0.35); border:1px solid rgba(255,255,255,0.2); transition:all 0.3s ease;">👥 Speakers</a>
