@@ -525,16 +525,14 @@ ieee-icbc-tutorial-qbe/
 <div style="background:#f5f5f5; border:1px solid #ddd; border-radius:8px; padding:20px; overflow-x:auto; font-family:'Courier New', monospace; font-size:0.85rem; line-height:1.6;">
 
 ```bibtex
-@inproceedings{icbc2026qbe,
-  title={Blockchain Infrastructure for Intelligent Cyber--Physical--Social 
-         Systems: Post-Quantum Security, Interoperability, and Trustworthy 
-         Data Economies in the Era of Embodied {AI}},
-  author={Guo, Song and Huang, Huawei and Liu, Dongping and Zhang, Aoyu 
-          and Zhang, Luyao},
-  booktitle={IEEE International Conference on Blockchain and Cryptocurrency 
-             (ICBC)},
+@misc{guo2026blockchaininfrastructureintelligentcyberphysicalsocial,
+  title={Blockchain Infrastructure for Intelligent Cyber--Physical--Social Systems:Post-Quantum Security, Interoperability, and Trustworthy Data Economies in the Era of Embodied AI}, 
+  author={Song Guo and Huawei Huang and Dongping Liu and Aoyu Zhang and Luyao Zhang},
   year={2026},
-  note={Tutorial, June 1--5, 2026, Brisbane, Australia}
+  eprint={2606.06895},
+  archivePrefix={arXiv},
+  primaryClass={cs.CR},
+  url={https://arxiv.org/abs/2606.06895}, 
 }
 ```
 
