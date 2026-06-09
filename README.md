@@ -33,11 +33,6 @@
 </div>
 
 <div style="margin:40px 0;">
-  <h2 id="overview-slides" style="font-size:1.5rem; color:#1f6feb; margin-bottom:18px;">💡 Tutorial Overview Slides</h2>
-  <p style="font-size:1rem; color:#334155; margin-bottom:20px;">Embedded Gamma presentation for the tutorial overview. If the embed does not display in your renderer, open it directly in a new tab.</p>
-  <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden; border-radius:16px; box-shadow:0 20px 60px rgba(0,0,0,0.08); border:1px solid rgba(148,163,184,0.2);">
-    <iframe src="https://blockchain-infrastructur-mzdp2pj.gamma.site/" allowfullscreen style="position:absolute; top:0; left:0; width:100%; height:100%; border:0;"></iframe>
-  </div>
   <p style="font-size:0.9rem; color:#64748b; margin-top:14px;">View directly: <a href="https://blockchain-infrastructur-mzdp2pj.gamma.site/" target="_blank" rel="noopener noreferrer" style="color:#1f6feb; font-weight:600;">Gamma overview slides</a></p>
 </div>
 
