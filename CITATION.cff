@@ -1,19 +1,18 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-
-* family-names: "Guo"
+- family-names: "Guo"
   given-names: "Song"
-* family-names: "Huang"
+- family-names: "Huang"
   given-names: "Huawei"
-* family-names: "Liu"
+- family-names: "Liu"
   given-names: "Dongping"
-* family-names: "Zhang"
+- family-names: "Zhang"
   given-names: "Aoyu"
-* family-names: "Zhang"
+- family-names: "Zhang"
   given-names: "Luyao"
-  title: "ieee-icbc-tutorial-qbe"
-  version: 1.0.0
-  doi: 10.5281/zenodo.20577262
-  date-released: 2026-07-31
-  url: "https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe"
+title: "ieee-icbc-tutorial-qbe"
+version: 1.0.0
+doi: 10.5281/zenodo.20577262
+date-released: 2026-07-31
+url: "https://github.com/QuantBlockchain/ieee-icbc-tutorial-qbe"
